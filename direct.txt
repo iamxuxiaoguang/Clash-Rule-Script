@@ -1,7 +1,2 @@
-agoldcomm.com
-g2.com
-yinolink
-laposte.fr
-att.com
-dragonflyshipping
-royalmail.com
+DOMAIN-KEYWORD,agoldcomm.com,DIRECT
+DOMAIN-KEYWORD,g2.com,DIRECT
